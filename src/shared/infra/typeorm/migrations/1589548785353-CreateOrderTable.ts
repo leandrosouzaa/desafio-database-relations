@@ -20,7 +20,7 @@ export default class CreateOrderTable1589548785353
             isNullable: true,
           },
           {
-            name: 'create_at',
+            name: 'created_at',
             type: 'timestamp',
             default: 'now()',
           },

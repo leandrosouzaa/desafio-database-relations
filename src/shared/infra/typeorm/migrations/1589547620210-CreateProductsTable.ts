@@ -29,7 +29,7 @@ export default class CreateProductsTable1589547620210
             scale: 2,
           },
           {
-            name: 'create_at',
+            name: 'created_at',
             type: 'timestamp',
             default: 'now()',
           },
